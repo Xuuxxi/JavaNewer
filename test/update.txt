@@ -1,0 +1,9 @@
+git status
+git add .
+git status
+git commit -m
+<<<<<<< HEAD:test/新建文本文档.txt
+git push -u origin master
+=======
+git push -u origin master
+>>>>>>> 5e7e0d8 (Just test):test/update.txt
